@@ -3,6 +3,8 @@
 
 <br>
 <h2>Hi, Im Rio Aldi E </h2>
+<br>
+<p> Iam Front End Web Developer who interested on React.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/" target="blank"><img align="center"
